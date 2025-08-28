@@ -1,5 +1,5 @@
 > [!NOTE]  
-> 0.9.0 will soon be released. You can try the [dev builds](https://appleblox.com/download/dev).
+> THIS IS AN UNOFFICIAL BUILD. USE THE OFFICIAL BUILDS INSTEAD.
 
 # AppleBlox
 
